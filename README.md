@@ -19,11 +19,11 @@ Developed with the support of repaired components and external resources, this s
 
 ## Components Used
 
-- Atmega32 Microcontroller.
-- SIM800L GSM Module.
-- DHT11 Temperature Sensor.
-- Servo Motor.
-- 16x2 LED display.
+- Atmega32 Microcontroller
+- SIM800L GSM Module
+- DHT11 Temperature Sensor
+- Servo Motor
+- 16x2 LED display
   
 <br />
 
