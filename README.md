@@ -27,12 +27,12 @@ Developed with the support of repaired components and external resources, this s
   
 <br />
 
-
 ## License
 
 [MIT License](LICENSE)
 
 
+<br />
 
 > [!NOTE]
 > All operational information for the device is detailed in the **User Manual** & **Project Report** PDF documents.
